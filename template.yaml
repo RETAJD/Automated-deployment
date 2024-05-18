@@ -89,11 +89,11 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: t2.micro
-      ImageId: ami-0c55b159cbfafe1f0  # Zaktualizuj do najnowszego Amazon Linux 2 AMI
+      ImageId: ami-0c55b159cbfafe1f0
       SubnetId: !Ref PublicSubnet
       SecurityGroupIds:
         - !Ref WebServerSecurityGroup
-      KeyName: kluczeMarcin  # Zaktualizuj do nazwy swojego klucza SSH
+      KeyName: kluczeMarcin  
       UserData:
         Fn::Base64: !Sub |
           #!/bin/bash

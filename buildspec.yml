@@ -1,0 +1,9 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - pip install awscli
+  build:
+    commands:
+      - aws cloudformation deploy --template-file template.yaml --stack-name MyWordPressStack --capabilities CAPABILITY_NAMED_IAM
