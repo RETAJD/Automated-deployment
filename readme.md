@@ -1,4 +1,6 @@
 # Task Description: Automated Deployment of a Two-Tier AWS Infrastructure
+
+![image](https://github.com/RETAJD/Automated-deployment/assets/45774493/0b700ac2-a480-45ba-a7cc-6cbf694ee5dd)
  
 ## Objective: Candidates are required to automate the deployment of a two-tier infrastructure on AWS, consisting of a web server (EC2 instance) and a SQL database (RDS). The deployment process should leverage Infrastructure as Code (IaC) principles and be executed through a CI-CD pipeline.
  
@@ -32,4 +34,8 @@ HTTPS implementation is optional but preferred for additional points
 Successful deployment of a functional two-tier architecture (web server and database) in AWS, automated via CI-CD pipeline.
 WordPress site is publicly accessible and operational.
 Compliance with specified security and network configurations.
+
+
+
+
 
