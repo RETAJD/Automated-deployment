@@ -1,6 +1,6 @@
-#Task Description: Automated Deployment of a Two-Tier AWS Infrastructure
+# Task Description: Automated Deployment of a Two-Tier AWS Infrastructure
  
-##Objective: Candidates are required to automate the deployment of a two-tier infrastructure on AWS, consisting of a web server (EC2 instance) and a SQL database (RDS). The deployment process should leverage Infrastructure as Code (IaC) principles and be executed through a CI-CD pipeline.
+## Objective: Candidates are required to automate the deployment of a two-tier infrastructure on AWS, consisting of a web server (EC2 instance) and a SQL database (RDS). The deployment process should leverage Infrastructure as Code (IaC) principles and be executed through a CI-CD pipeline.
  
 # Requirements:
 #### Web Server:
