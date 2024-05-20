@@ -2,7 +2,7 @@
 
 ![image](https://github.com/RETAJD/Automated-deployment/assets/45774493/0b700ac2-a480-45ba-a7cc-6cbf694ee5dd)
 
-## Objective: Candidates are required to automate the deployment of a two-tier infrastructure on AWS, consisting of a web server (EC2 instance) and a SQL database (RDS). The deployment process should leverage Infrastructure as Code (IaC) principles and be executed through a CI-CD pipeline
+## Required to automate the deployment of a two-tier infrastructure on AWS, consisting of a web server (EC2 instance) and a SQL database (RDS). The deployment process should leverage Infrastructure as Code (IaC) principles and be executed through a CI-CD pipeline
 
 # Requirements
 
