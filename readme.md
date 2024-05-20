@@ -1,4 +1,4 @@
-# Task Description: Automated Deployment of a Two-Tier AWS Infrastructure
+## Automated Deployment of a Two-Tier AWS Infrastructure
 
 ![image](https://github.com/RETAJD/Automated-deployment/assets/45774493/0b700ac2-a480-45ba-a7cc-6cbf694ee5dd)
 
